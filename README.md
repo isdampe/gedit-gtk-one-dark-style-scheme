@@ -16,4 +16,4 @@ You are now done.
 
 ## Screenshot
 
-[!One dark theme color scheme for Gedit](screenshot.png)
+![One dark theme color scheme for Gedit](screenshot.png)
